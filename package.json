@@ -1,0 +1,17 @@
+{
+  "name": "temples-api",
+  "version": "1.0.0",
+  "description": "API for temples",
+  "main": "index.js",
+  "scripts": {
+    "start": "node cse341-ww-student-code-w02-2-team-start/index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.14.3",
+    "swagger-ui-express": "^5.0.1",
+    "yamljs": "^0.3.0"
+  }
+}
